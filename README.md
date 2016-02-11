@@ -18,7 +18,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-$ php composer.phar require cinghie/yii2-tcpdf "dev-master"
+$ php composer.phar require ahmadhelmy/yii2-tcpdf "dev-master"
 ```
 
 or add
@@ -37,7 +37,7 @@ to the ```require``` section of your `composer.json` file.
 ...
 		// Yii2 TCPDF
 		'tcpdf' => [
-			'class' => 'cinghie\tcpdf\TCPDF',
+			'class' => 'ahmadhelmy\tcpdf\TCPDF',
 		],
 		...
 ]</pre>
