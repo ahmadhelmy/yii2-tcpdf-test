@@ -24,7 +24,7 @@ $ php composer.phar require ahmadhelmy/yii2-tcpdf "dev-master"
 or add
 
 ```
-"cinghie/yii2-tcpdf": "dev-master"
+"ahmadhelmy/yii2-tcpdf": "dev-master"
 ```
 
 to the ```require``` section of your `composer.json` file.
